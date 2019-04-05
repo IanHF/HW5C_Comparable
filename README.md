@@ -1,1 +1,1 @@
-# HW5C_Comparable
+# play with `Comparable` types
